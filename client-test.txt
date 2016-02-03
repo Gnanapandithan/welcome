@@ -1,3 +1,0 @@
-Test for code merge MASTER
-I MASTER have added some line
-MASTER 
